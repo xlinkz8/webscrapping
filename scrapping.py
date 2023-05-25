@@ -1,22 +1,4 @@
 
-# Conversation opened. 1 read message.
-
-# Skip to content
-# Using Gmail with screen readers
-# 7 of 7,830
-# try & excerpt condition
-# Inbox
-
-# Lawrence Akpan <ten12visuals@gmail.com>
-# Attachments
-# May 24, 2023, 9:58 PM (14 hours ago)
-# to me, issabolanle44@gmail.com, chinelomojekwu@gmail.com, ten12visuals@gmail.com
-
-#  If there are network issues or the server is not reachable this will improve the functionality and error handling of your code.
- 
-
-#  One attachment
-#   •  Scanned by Gmail
 # import necessary modules (re, requests, os, sys) 
 import os
 import sys
